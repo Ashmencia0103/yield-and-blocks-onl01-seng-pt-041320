@@ -6,9 +6,8 @@ def hello_t(array)
     yield array[i]
     i = i + 1
   end
-  hello_t
 end
-
+array
 
 
 # i = place holder for our yielded value
