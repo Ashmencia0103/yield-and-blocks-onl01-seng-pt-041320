@@ -7,7 +7,7 @@ def hello_t(array)
     i = i + 1
   end
 end
-array
+
 
 
 # i = place holder for our yielded value
